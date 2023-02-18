@@ -1,0 +1,97 @@
+h1 {
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+}
+table {
+    border: 1px solid;
+    font-family: arial, Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: white;
+  }
+  
+  
+  .jovellanos{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
+  .color{
+    background-color: burlywood;
+
+  }
+  .Gijon{
+    width: 30%;
+    float: right;
+    display: inline block;
+    margin-left: auto;
+    margin-left: auto;
+}
+.molinon{
+   background-color: #eab676;
+
+}
+
+.carnaval{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.sectores{
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.real{
+  height: 350px;
+  width: 100%;
+}
+.partido{
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.mundial{
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+
+
+.voz{
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  
+}
+.nueva{
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  text-align: center;
+}
